@@ -1,0 +1,17 @@
+__pycache__/
+*.swp
+
+connectivity/*
+!connectivity/.gitkeep
+
+data/*
+!data/.gitkeep
+
+img_features/*
+!img_features/.gitkeep
+
+snap/*
+!snap/.gitkeep
+
+build/
+transformers/
