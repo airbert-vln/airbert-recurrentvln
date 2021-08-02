@@ -6,7 +6,7 @@ This repository stores the codebase for finetuning [Airbert](https://github.com/
 
 1. Follow instructions in [Recurrent-VLN-BERT](https://github.com/YicongHong/Recurrent-VLN-BERT#prerequisites) to setup the environment and download data.
 
-2. Download the [trained models]().
+2. Download the [trained models](https://drive.google.com/drive/folders/14WKuF80E9tvHJMymNxDbbGdtFbezCmR3?usp=sharing).
 
 ## REVERIE 
 
